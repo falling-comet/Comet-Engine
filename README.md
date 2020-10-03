@@ -5,7 +5,7 @@ A search engine for our school's LMS
 
 #### Downloading
 
-python `requests` is used to download files and other metadata from http://lms.ksa.hs.kr/
+python `requests` is used to download files and other metadata from LMS
 
 ```python
 url = '***************'
